@@ -2,7 +2,7 @@
 
 A small console game where the player explores rooms, collects two items, and tries not to walk into the monster.
 
-[View my programming portfolio](https://charliebarra.github.io/portfolio/programming.html)
+[View my programming portfolio](https://www.charliebarra.com/programming.html)
 
 ![The game running in a Python console](images/adventure-game-screenshot.png)
 
