@@ -51,3 +51,7 @@ The game explains its commands when it starts.
 ## Source Integrity
 
 The original source is intentionally unchanged. The awkward parts are useful evidence too: they show what I understood then and what I would improve now.
+
+## Repository Context
+
+This repository was assembled in July 2026 from original project files for portfolio review. Its Git history records archival organization and later documentation updates, not the project's original development timeline. The source file and screenshot are preserved from the original project materials; `SOURCE-INTEGRITY.md` records the source checksum.
